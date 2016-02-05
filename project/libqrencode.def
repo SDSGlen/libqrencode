@@ -1,0 +1,5 @@
+LIBRARY LIBQRENCODE
+
+EXPORTS
+	QRcode_encodeString
+	QRcode_free
